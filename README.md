@@ -1,6 +1,7 @@
 # Team-Generator-homework-assignment
 
-I have unfortunaley  have hit a snag trying to run my app.js file. I will try to fix it as soon as possible with the help from the instructors.
+I have unfortunaley  have hit a snag trying to run my app.js file. I will try to fix it asap with the help from the instructors.
+
 ![Annotation 2020-05-09 214434](https://user-images.githubusercontent.com/61437470/81489102-c5f53d80-923f-11ea-8690-1a3a136e2d04.png)
 
 I have ran npm test and it had passed.
